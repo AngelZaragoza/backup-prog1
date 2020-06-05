@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRII_Clase_21_Oct", "PRII_Clase_21_Oct\PRII_Clase_21_Oct.csproj", "{BE224812-B014-411B-98C0-19F5C4086A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE224812-B014-411B-98C0-19F5C4086A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE224812-B014-411B-98C0-19F5C4086A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE224812-B014-411B-98C0-19F5C4086A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE224812-B014-411B-98C0-19F5C4086A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
